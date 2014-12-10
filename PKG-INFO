@@ -1,0 +1,12 @@
+Metadata-Version: 1.0
+Name: tx-python
+Version: 0.1
+Summary: Python interface to tx
+Home-page: http://www.cl.ait.kyushu-u.ac.jp/~murawaki/
+Author: MURAWAKI Yugo
+Author-email: murawaki@ait.kyushu-u.ac.jp
+License: UNKNOWN
+Description: 
+        Python interface to tx.
+        
+Platform: UNKNOWN
